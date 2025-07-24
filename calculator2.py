@@ -1,3 +1,3 @@
 def cal(x, y, mode = "+"):
     if mode == "+" :
-        return x+y
+        return f"{x} + {y} = {x+y}"
